@@ -1,10 +1,6 @@
 🎓 NOOR — Light as a practice
 A modern, full-page landing website for NOOR, a premium English language & study-abroad academy. Designed to guide ambitious students from foundational English to world-class universities through a structured, four-movement system.
 
-https://img.shields.io/badge/status-live-success
-https://img.shields.io/badge/license-MIT-blue
-https://img.shields.io/badge/made%20with-HTML%20%7C%20CSS%20%7C%20JS-orange
-
 📖 About the Project
 NOOR is a single-page landing site built to present the academy's methodology, study tracks, pricing plans, and outcomes in a clean, editorial layout. The design uses a warm, premium aesthetic with dark/light section alternation, custom typography, and subtle micro-interactions.
 
