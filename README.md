@@ -36,10 +36,10 @@ No frameworks, no build step — just clean, portable code.
 🚀 Getting Started
 bash
 # Clone the repository
-git clone https://github.com/your-username/noor-landing.git
+git clone https://github.com/a69902654-stack/NOOR
 
 # Navigate into the project
-cd noor-landing
+cd NOOR
 
 # Open in browser
 open index.html
@@ -47,7 +47,7 @@ Or simply double-click index.html.
 
 📁 Project Structure
 text
-noor-landing/
+NOOR/
 ├── index.html
 ├── css/
 │   ├── style.css
@@ -103,11 +103,11 @@ This is a client project, but suggestions are welcome. Feel free to open an issu
 This project is licensed under the MIT License — see the LICENSE file for details.
 
 👤 Author
-Your Name
+AmirARsalan
 
-GitHub: @your-username
+GitHub: a69902654-stack
 
-Email: your@email.com
+Email: a69902654@gmail.com
 
 🙏 Acknowledgments
 Design inspiration: editorial-style SaaS landings
